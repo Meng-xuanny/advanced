@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/advanced/advanced/bin/Debug/net7.0/advanced
+/Users/mengxuan/Projects/advanced/advanced/bin/Debug/net7.0/advanced.deps.json
+/Users/mengxuan/Projects/advanced/advanced/bin/Debug/net7.0/advanced.runtimeconfig.json
+/Users/mengxuan/Projects/advanced/advanced/bin/Debug/net7.0/advanced.dll
+/Users/mengxuan/Projects/advanced/advanced/bin/Debug/net7.0/advanced.pdb
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.AssemblyInfo.cs
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.dll
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/refint/advanced.dll
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.pdb
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/advanced.genruntimeconfig.cache
+/Users/mengxuan/Projects/advanced/advanced/obj/Debug/net7.0/ref/advanced.dll
